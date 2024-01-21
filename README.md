@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Castellon</h1>
-<h3 align="center">A passionate software developer from Honduras</h3>
+<h3 align="center">A passionate software developer interested in ML</h3>
 
 <!--<img align="right" alt="coding" width="400" src="">-->
 
