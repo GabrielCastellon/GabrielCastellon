@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Supervised Learning**
 
-- 📫 How to reach me **gcastellon70@gmail.com**
+- 📫 How to reach me **gcastel5@my.centennialcollege.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
