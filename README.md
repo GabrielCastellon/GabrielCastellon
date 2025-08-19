@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel Castellon</h1>
-<h3 align="center">A passionate software developer interested in ML</h3>
+<h3 align="center">A passionate student interested in ML</h3>
 
 <!--<img align="right" alt="coding" width="400" src="">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcastellon&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielcastellon" /> </p>
 
-- 🔭 I’m currently working on **Classification on an image dataset**
+- 🔭 I’m currently working on **Mental Health Chatbot**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Supervised Learning**
-
-- 📫 How to reach me **gcastel5@my.centennialcollege.ca**
+- 📫 How to reach me **gabriel.castellon@mail.utoronto.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
