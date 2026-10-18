@@ -3,8 +3,6 @@
 
 <!--<img align="right" alt="coding" width="400" src="">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcastellon&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielcastellon" /> </p>
-
 - 🎓 Studying at **University of Toronto, St. George**, with a focus in **AI**
 
 - 🛠️ My projects include **Shoe Marketplace** and an **Android Navigation App**
